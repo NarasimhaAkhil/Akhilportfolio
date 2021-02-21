@@ -52,7 +52,7 @@
 }
 
 #d4 {
-   width: 100%;
+   width: auto;
    height: 40%;
    border-radius: 30px;
    border: 3px solid black;
@@ -75,6 +75,7 @@
    box-shadow: 8px 8px rgb(27, 27, 27);
    padding-left: 2%;
    background-color: #cadefc;
+   font-size: 20px;
 }
 
 #d6 {
@@ -88,12 +89,13 @@
 }
 
 #d7 {
-   width: 100%;
+   padding: 20px;
    height: 40%;
    border-radius: 30px;
    font-size: 20px;
    border: 3px solid black;
    box-shadow: 8px 8px rgb(27, 27, 27);
+   text-align: center;
 }
 
 #l1 {
